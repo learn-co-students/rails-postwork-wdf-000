@@ -6,8 +6,19 @@
 ## Topics to Cover / Resources
 
 + Design Patterns
+  + Practical Object Oriented Design in Ruby - Sandi Metz (AKA the king of code)
+    + The bible.  Read it ten times in the next year.
+  + Design Patterns in Ruby
+    + Read a chapter a day, and take notes.  Try to apply some of the patterns to a project.  
+  + Confident Code by Avdi Grimm
+    + Excellent book on writing clean methods.
+
 + Testing
+  + Everyday testing with rspec
+  + http://books.flatironschool.com/books/114
+
 + Advanced SQL Queries
+  + https://www.pgexercises.com/
 
 ## Project Requirements
 
