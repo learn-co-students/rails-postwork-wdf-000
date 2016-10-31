@@ -36,9 +36,13 @@
 ### Readings
 
 + [Practical Object Oriented Design in Ruby - Sandi Metz (AKA the king of code)](http://books.flatironschool.com/books/102)
+	+ This is the bible. Read it all the way through, maybe twice.  
 + Design Patterns in Ruby 
+	+ Read a chapter a day and take notes. Try to apply some patterns to a new/exisiting project.
 + [Confident Ruby - Avdi Grim](http://books.flatironschool.com/books/112)
+	+ Great book on writing clean methods. 
 + [Everyday Testing With Rspec](http://books.flatironschool.com/books/114)
+	+ Read this material as you see fit, but start with reading the section on Model methods then move forward as you are writing your own tests. 
 + [Advanced SQL Queries](https://www.pgexercises.com/)
 	
 ## Project Requirements
@@ -47,6 +51,7 @@
 + Must test model methods 
 	+ *Stretch goal: write controller & feature tests*
 + Must use good design patterns
+  + [Sandi Metz' Rules for Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
   + [Adapter pattern](http://www.thegreatcodeadventure.com/rails-refactoring-part-i-the-adapter-pattern/) for API calls
   + [Decorator](https://thegreatcodeadventure.com/rails-refactoring-part-ii-the-decorator-pattern) patterns for views
   + [Service pattern](https://thegreatcodeadventure.com/rails-refactoring-part-ii-services) to fullfil single responsibility principle.
@@ -63,4 +68,5 @@
   		+ [Creating a Drawing Feature](https://medium.com/@hdwatts/creating-a-drawing-with-friends-web-app-w-action-cable-and-rails-5-1052ac43d74b#.mmcy9y3ef)
 
 # GOOD LUCK!
+
 ![](http://i.giphy.com/lds79WZpA3SN2.gif)
